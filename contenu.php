@@ -5,7 +5,7 @@
 <body>
 <form action="./contenu.php" method="post">
     <input type="text" name="todo1">
-    <button type="submit" id="run">Entre une tache pd</button>
+    <button type="submit" id="run">Entre une tache</button>
     
 </form>
 <h1>à faire</h1>
